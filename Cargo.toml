@@ -1,5 +1,5 @@
 [package]
-name = "Kinit"
+name = "qinit"
 version = "0.4.0"
 edition = "2021"
 description = "Minimal, secure, modular init system for servers and desktops"
